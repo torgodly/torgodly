@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [my website](http://torgodly.ml/)
 
-- 💬 Ask me about **Android, Flutter, python,**
+- 💬 Ask me about **Android, Flutter, python, PHP, Laravel**
 
 - 📫 How to reach me **torgodly@gmail.com**
 
