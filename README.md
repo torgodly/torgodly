@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Abdullah al-hajj</h1>
 <h3>A passionate mobile & web developer from Libya</h3>
 
-- 👨‍💻 All of my projects are available at [my website](http://torgodly.ml/)
+- 👨‍💻 All of my projects are available at [my website](http://abdo.ly/)
 
 - 💬 Ask me about **Android, Flutter, python, PHP, Laravel**
 
